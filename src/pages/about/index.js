@@ -23,7 +23,7 @@ const AboutUs = () => {
               cleanse direct trade indigo juice before they sold out gentrify
               plaid gastropub normcore XOXO 90s pickled cindigo jean shorts.
               Slow-carb next level shoindigoitch ethical authentic, yr scenester
-              sriracha forage franzen organic drinking vinegar..
+              sriracha forage franzen organic drinking vinegar.
             </p>
             <span class="inline-block h-1 w-10 rounded bg-indigo-500 mt-8 mb-6"></span>
             <h2 class="text-gray-900 font-medium title-font tracking-wider text-sm">
